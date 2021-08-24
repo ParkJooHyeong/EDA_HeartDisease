@@ -1,6 +1,6 @@
 # EDA_HeartDisease
 EDA_HeartDisease from Kaggle    
-Featrue
+#### Featrue
 - Sex: 남성, 여성 성별
 - Age: 환자의 연령
 - Current Smoker: 현재 흡연 여부
@@ -15,9 +15,10 @@ Medical(current)
 - Dia BP: 혈압(이완)
 - BMI: BMI 지수
 - Heart Rate: 심박수
-• Glucose: 포도당 지수
-Label
-• 10년내 관상 동맥 심장 질환 CHD 위험도 (1 : True, 0: False)
+- Glucose: 포도당 지수
+
+#### Label
+- 10년내 관상 동맥 심장 질환 CHD 위험도 (1 : True, 0: False)
 
 
 ###
