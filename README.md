@@ -1,5 +1,5 @@
-# EDA_HeartDisease
-EDA_HeartDisease from Kaggle    
+# Kaggle_HeartDisease
+Heartdisease prediction from Kaggle    
 #### Featrue
 - Sex: 남성, 여성 성별
 - Age: 환자의 연령
